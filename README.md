@@ -75,6 +75,7 @@ mydb.sync();
 <p><strong>Max Appleton - SF/Bay Area</strong> - <a href="https://maxiappleton.github.io/">Website</a></p>
 <img width=150px src="https://turtle-db.github.io/images/steven.png">
 <p><strong>Steven Shen - Toronto</strong> - <a href="https://rockdinosaur.github.io/">Website</a></p>
+<p><strong>Varnit Sharma - Jabalpur</strong> - <a href="https://LunaticProgrammer.github.io/">Website</a></p>
 
 # License
 
